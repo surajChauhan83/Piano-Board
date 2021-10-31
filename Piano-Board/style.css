@@ -24,8 +24,7 @@ header:after {
     height: 130px;
     background: url("beats/img.png") no-repeat center blanchedalmond;
     display: inline-block;
-     
-     background-size: 90%;
+    background-size: 90%;
   }
 
 h1{
@@ -57,31 +56,25 @@ h3{
     border: 1px solid grey;
 }
  
-.hints{
-   
+.hints{ 
    color: black;
-  
-    position: absolute;
-    bottom: -2px;
-     
-    font-size: 20px;
-    
+   position: absolute;
+   bottom: -2px;
+   font-size: 20px;
 }
  
 .hint{
    
     color: white;
-   
-     position:relative;
-      top: 130px;
-      
-     font-size: 20px;
-     
+    position:relative;
+    top: 130px;
+    font-size: 20px; 
  }
  
  .piano:hover .hints {
     opacity: 1;
   }
+
 .white.active{
     background-color: #ccc;
 }
