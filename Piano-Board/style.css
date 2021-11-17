@@ -58,8 +58,8 @@ h3{
  
 .hints{ 
    color: black;
-   position: absolute;
-   bottom: -2px;
+   position: relative;
+   bottom: -195px;
    font-size: 20px;
 }
  
